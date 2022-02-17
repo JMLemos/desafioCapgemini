@@ -1,21 +1,20 @@
 # desafioCapgemini
 
-▶️ Objetivo do Projeto 💡
-
+## ▶️ Objetivo do Projeto 💡
 Projeto desenvolvido para atender ao desafio da Capgemini que tem como objetivo testar os conhecimentos do candidato em lógica de programação.
 
-▶️ Padrão de Projeto 📜
+## ▶️ Padrão de Projeto 📜
 
 Estrutura de programação procedural, que especifica os passos que o programa deve seguir para alcançar um estado desejado. 
 
-▶️Tecnologias utilizadas ⚙️
+## ▶️Tecnologias utilizadas ⚙️
 
 * LINGUAGEM DE PROGRAMAÇÃO: Java
 * IDE: Eclipse
 * VERSIONAMENTO: Git
 * HOSPEDAGEM: GitHub
 
-▶️Como rodar:
+## ▶️Como rodar:
 
 * 1º - 
 `Criar uma nova pasta no desktop`
@@ -35,7 +34,7 @@ Estrutura de programação procedural, que especifica os passos que o programa d
 * 6º
 `Pronto!`
 
-▶️ DONE ✔️
+## ▶️ DONE ✔️
 
 `Questão 1`
 O código realiza a leitura de um inteiro que define a quantidade de vezes que o caracter * vai se repetir  o primeiro "for" realiza a repetição de acordo com a quantidade informada. o segundo "for" faz a impressão do esquema construído. 
@@ -47,10 +46,10 @@ O código faz a leitura de uma senha ofertada pelo cliente, essa string passa pr
 A função anagrama foi criada para realizar o armazenamento dos caracteres e utilizando a classe do Java útil HASHMAP conseguimos criar pares de valores-chave. Após o armazenamento e análise dos caracteres através da função, um contador faz o  registro de quantidade de anagramas existente na palavra que foi inserida para teste e apresenta essa quantidade. 
 
 
-▶️TESTES REALIZADOS 🕹️
+## ▶️TESTES REALIZADOS 🕹️
 
 Além das informações de testes sugeridos pelo documento do desafio, outros valores foram validados para evidenciar os códigos. 
 
-▶️ AGRADECIMENTOS 🚀
+## ▶️ AGRADECIMENTOS 🚀
 
-Agradeço a equipe da Capgemini pela disponibilidade de acesso ao desafio que desenvolve os participantes e possibilita a apresentação dos conhecimentos.
+Agradeço a equipe da Capgemini pela oportunidade de acesso ao desafio que desenvolve os participantes e possibilita a apresentação dos conhecimentos. O projeto foi realizado com muita dedicação.
